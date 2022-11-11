@@ -2,7 +2,7 @@
 ## Project: Automation 
 ### Author: AbdallahMosa
 
-### [PR](https://github.com/AbdallahMosa/web-scraper/pull/1)
+### [PR](https://github.com/AbdallahMosa/automation/pull/1)
 ####  requirements.txt ? 
 - `pip freeze > requirements.txt`
 #### How to install requirements.txt ? 
